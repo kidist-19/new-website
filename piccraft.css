@@ -1,0 +1,47 @@
+.thumbnail{
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 100%;
+    display: block;
+}
+h1,h3,p{
+    text-align: center;
+    color: bisque;
+}
+.home{
+    display: flex;
+    background-color: rgb(19, 17, 17);
+    justify-content: center;
+    padding: auto;
+    margin: auto ;
+    width: 300px;
+    height: 600px;
+}
+.link {
+    text-align: center;
+    color: beige;
+    background-color: rgb(39, 37, 37);
+    
+}
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+h3{
+    color: #92de1f;
+
+}
+button{
+    background-color: rgb(46, 37, 37);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    width: 300px;
+    height: 30px;
+    align-self: center;
+
+}
+button:hover{
+   background-color: rgb(169, 224, 20);
+}
